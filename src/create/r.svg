@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="24px" viewBox="0 0 18 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M26.3086582,8.38894712 L26.3086582,24.367894 L31.4006566,24.367894 L31.4006566,15.4196837 L33.7707714,15.4196837 C34.8874375,17.7417487 38.1695453,24.3678937 38.0616311,24.367894 C37.9332745,24.3678944 43.7063193,24.367894 43.7063193,24.367894 C43.7063193,24.367894 40.3141825,17.2966707 39.1648494,14.9064254 C41.8259347,13.8401207 43.7063193,11.2285183 43.7063193,8.17589449 C43.7063193,4.17526015 40.4766517,1.35821049 36.4926549,1.35821049 L26.3086582,1.35821049 L26.3086582,8.38894712 Z M38.6143209,8.60199974 C38.6143209,10.2493198 37.2844578,11.1586312 35.6439885,11.1586312 L31.4006566,11.1586312 L31.4006566,8.17589449 L31.4006566,6.04536824 L35.6439885,6.04536824 C37.2844578,6.04536824 38.6143209,6.95467972 38.6143209,8.60199974 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Footer-copyright" sketch:type="MSArtboardGroup" transform="translate(-123.000000, -109.000000)">
+            <g id="White-copyright-logo" sketch:type="MSLayerGroup" transform="translate(97.000000, 93.000000)">
+                <g id="letters-logo-W" transform="translate(0.238002, 15.219613)">
+                    <g id="Path">
+                        <use fill="none" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                        <use fill="none" xlink:href="#path-1"></use>
+                        <use fill="none" xlink:href="#path-1"></use>
+                        <use fill="none" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

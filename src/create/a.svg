@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="25px" viewBox="0 0 24 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M80.6233074,0.505999985 L92.0803037,24.367894 L69.1663111,24.367894 L80.6233074,0.505999985 Z M80.6233074,12.0108417 L84.017973,19.254631 L77.2286418,19.254631 L80.6233074,12.0108417 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Footer-copyright" sketch:type="MSArtboardGroup" transform="translate(-166.000000, -108.000000)">
+            <g id="White-copyright-logo" sketch:type="MSLayerGroup" transform="translate(97.000000, 93.000000)">
+                <g id="letters-logo-W" transform="translate(0.238002, 15.219613)">
+                    <g id="Path">
+                        <use fill="none" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                        <use fill="none" xlink:href="#path-1"></use>
+                        <use fill="none" xlink:href="#path-1"></use>
+                        <use fill="none" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

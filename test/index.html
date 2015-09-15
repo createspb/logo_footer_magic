@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Test</title>
+  <style>
+    body {
+      background: #eee;
+      margin: 0;
+      padding: 20px;
+      text-align: center;
+    }
+    #box1, #box2, #box3 {
+      height: 45px;
+      width: 135px;
+      display: inline-block;
+      padding: 20px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
+    }
+    #box1 {
+      background: #444;
+      margin: 0 20px 0 0;
+    }
+    #box2 {
+      background: #fff;
+      margin: 0 20px 0 0;
+    }
+    #box3 {
+      background: #fcfcfc;
+    }
+  </style>
+</head>
+<body>
+  <div id="box1"></div><div id="box2"></div><div id="box3"></div>
+  <script src="../dist/logo_footer_magic.min.js"></script>
+  <script>
+    new logo_footer_magic({elem: 'box1', color: '#ffffff', prefix: 'w-'});
+    new logo_footer_magic({elem: 'box2', color: '#181c27', prefix: 'b-'});
+    new logo_footer_magic({elem: 'box3', color: '#ee0000', prefix: 'r-'});
+  </script>
+</body>
+</html>
