@@ -1,5 +1,5 @@
 /*!
-  logo_footer_magic 0.0.2
+  logo_footer_magic 0.0.3
   license: MIT
   undefined
 */
