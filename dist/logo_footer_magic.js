@@ -58,8 +58,10 @@
       this.color = options.color;
       this.prefix = options.prefix;
       this.domEl = document.getElementById(this.elID);
-      this.initDom();
-      this.initAnimation();
+      if (this.domEl !== undefined && this.domEl !== null) {
+        this.initDom();
+        this.initAnimation();
+      }
     }
 
     _createClass(LogoFooterMagic, [{
