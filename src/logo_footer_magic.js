@@ -63,6 +63,7 @@ class LogoFooterMagic {
           font-family: 'create_logo_fontregular';
           color: ${this.color};
           font-size: 23px;
+          line-height: normal;
         }
         #${this.prefix}createspbBoxLogoC  { margin: 0 4px 0 0; }
         #${this.prefix}createspbBoxLogoR  { margin: 0 5px 0 0; }
